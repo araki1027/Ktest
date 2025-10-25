@@ -1,0 +1,150 @@
+html,body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.confirm{
+    width: 100%;
+    height: 100%;
+    border-top: solid 1px black ;
+    margin: 20px 0 0 0;
+}
+
+.confirm__header{
+    text-align: center;
+    color: #988471;
+}
+
+.name-email{
+    width: 290px;
+    padding: 11px 10px;
+    margin: 0 0 0 100px;
+    background-color: #efefef;
+    border: solid 1px #efefef;
+    color: #988471;
+}
+
+.select__gender{
+    width: 70px;
+    padding: 12px 5px;
+    text-align: center;
+    margin: 0 0 0 40px;
+    background-color: #efefef;
+    border: solid 1px #efefef;
+    color: #988471;
+}
+
+.select__kind{
+    width: 170px;
+    padding: 12px 5px;
+    text-align: center;
+    margin: 0 0 0 40px;
+    background-color: #efefef;
+    border: solid 1px #efefef;
+    color: #988471;
+}
+
+.select__when{
+    width: 110px;
+    padding: 12px 5px;
+    text-align: center;
+    margin: 0 0 0 40px;
+    background-color: #efefef;
+    border: solid 1px #efefef;
+    color: #988471;
+}
+
+.search{
+    width: 75px;
+    padding: 9px 5px;
+    margin: 0 0 0 40px;
+    background-color: #65574B;
+    color: white;
+    border: solid 1px #65574B;
+}
+
+.reset{
+    width: 75px;
+    padding: 9px 5px;
+    margin: 0 0 0 40px;
+    background-color: #E5C6AA;
+    color: white;
+    border: solid 1px #E5C6AA;
+}
+
+.headpara{
+    display: inline-block;
+    margin: 0 0 0 100px;
+    color: #988471;
+    font-size: 16px;
+}
+
+.para{
+    background-color: #dcdcdc;
+    padding: 5px 10px;
+}
+
+.table{
+    margin: 0 0 0 100px;
+    width: 1030px;
+}
+
+.table__all{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table__header{
+    color: white;
+    background-color: #65574B;
+}
+
+th{
+    padding: 13px 0;
+    border: solid 1px #65574B;
+}
+
+td{
+    color: #988471;
+    padding: 10px 0;
+}
+
+.data__row{
+    border: solid 1px #988471;
+}
+
+.table__name{
+    text-align: left;
+    padding: 0 0 0 50px;
+}
+
+.table__gender{
+    text-align: left;
+}
+
+.table__email{
+    text-align: left;
+    padding:0 0 0 100px;
+}
+
+.table__kind{
+    text-align:left;
+    padding: 0 10px 0 0 ;
+}
+
+.data__name{
+    padding: 0 0 0 50px;
+}
+
+.data__email{
+    padding: 0 0 0 100px;
+}
+
+.data__button{
+    padding: 7px 15px;
+    color: #E5C6AA;
+    border:solid 1px #E5C6AA;
+    background-color:white;
+    margin: 10px 0 0 0 ;
+}

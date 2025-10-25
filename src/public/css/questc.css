@@ -1,0 +1,63 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.confirm {
+    width: 100%;
+    height: 100%;
+    border-top: solid 1px silver;
+}
+
+.confirm__header {
+    text-align: center;
+    color: #988471;
+}
+
+.table{
+    width: 800px;
+}
+
+table{
+    text-align: left;
+    width: 100%;
+    margin:  20px 0 20px 200px;
+    border-collapse: collapse;
+}
+
+.row__header{
+    color: white;
+    background-color: #988471;
+    padding: 15px 0px 15px 50px;
+    width: 40%;
+    
+}
+
+.row__text{
+    color: #988471;
+    padding: 0 0 0 30px;
+}
+
+td{
+    border: solid 1px silver;
+}
+
+button {
+    background-color: #65574B;
+    color: white;
+    border: solid 1px #65574B;
+    padding: 7px 30px;
+    display: inline;
+}
+
+.button-quest {
+    text-align: center;
+    margin: 30px 0 0 0;
+}
+
+a{
+    color: #988471;
+    margin: 0 0 0 15px;
+}

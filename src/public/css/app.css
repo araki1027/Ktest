@@ -1,0 +1,28 @@
+.mainheader{
+    width: 100%;
+}
+
+.header__inner{
+    display: flex;
+    width: 100%;
+}
+
+.Fashion{
+    margin: 0 0 0 530px;
+    color: #988471;
+    font-size: 25px;
+}
+
+.link{
+    margin: auto 0 auto 300px;
+    text-decoration: none;
+    border: solid 1px #a9a9a9;
+    padding: 3px 20px;
+    background-color: #e6e6e6;
+    color: #a9a9a9;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
